@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=latex 2020.9.13)  6 OCT 2020 18:40
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=latex 2020.9.13)  15 OCT 2020 22:21
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1072,12 +1072,9 @@ Package etoolbox Warning: Patching '\end' failed!
 
 ) (c:/texlive/2020/texmf-dist/tex/latex/eso-pic/eso-pic.sty
 Package: eso-pic 2018/04/12 v2.0h eso-pic (RN)
-)
-
-Package gitinfo2 Warning: I can't find the file '.git/gitHeadInfo.gin'.
-(gitinfo2)                All git metadata has been set to '(None)'.
-
-) (c:/texlive/2020/texmf-dist/tex/latex/todonotes/todonotes.sty
+) (./.git/gitHeadInfo.gin) (c:/texlive/2020/texmf-dist/tex/latex/gitinfo2/gitexinfo.sty
+Package: gitexinfo 2015/11/22 v2.0.7 Auxiliary package for gitinfo2
+)) (c:/texlive/2020/texmf-dist/tex/latex/todonotes/todonotes.sty
 Package: todonotes 2019/01/24 v1.1.2 Todonotes source and documentation.
 Package: todonotes 2018/11/22
  (c:/texlive/2020/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty (c:/texlive/2020/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty (c:/texlive/2020/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty (c:/texlive/2020/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
@@ -1495,12 +1492,12 @@ Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 1684.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1684.
  ) 
 Here is how much of TeX's memory you used:
- 32266 strings out of 480609
- 598452 string characters out of 5907562
- 978035 words of memory out of 5000000
- 47441 multiletter control sequences out of 15000+600000
+ 32307 strings out of 480609
+ 599141 string characters out of 5907562
+ 979691 words of memory out of 5000000
+ 47482 multiletter control sequences out of 15000+600000
  559671 words of font info for 67 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  66i,9n,83p,2374b,868s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on slides-origin.dvi (10 pages, 86248 bytes).
+Output written on slides-origin.dvi (10 pages, 86264 bytes).
